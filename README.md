@@ -1,2 +1,2 @@
-# lib-java-picture-picker
+# Picture Picker
  Java picture picker library.
